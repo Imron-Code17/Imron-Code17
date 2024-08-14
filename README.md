@@ -25,7 +25,7 @@ I'm a mobile app developer with a focus on creating engaging and useful user exp
 
 If you're interested in collaborating or just want to chat, feel free to reach out to me via email or social media below:
 
-- Email: [email@example.com](mailto:ali.imronashter@gmail.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/imr17)
+- Email: [ali.imronashter@gmail.com](mailto:ali.imronashter@gmail.com)
+- LinkedIn: [linkedin.com/in/imr17](https://www.linkedin.com/in/imr17)
 
 Thank you for visiting my profile! I look forward to collaborating with you soon. 😊
