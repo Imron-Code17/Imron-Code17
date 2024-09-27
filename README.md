@@ -17,10 +17,10 @@ I'm a **Mobile App Developer** specializing in **Flutter** and **Dart**, passion
 ## 📊 GitHub Stats & Language
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imron-Code17&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imron-Code17&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical&count_private=true&token=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)
 
 ---
 
