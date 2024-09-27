@@ -22,13 +22,19 @@ I'm a **Mobile App Developer** specializing in **Flutter** and **Dart**, passion
 
 ---
 
-## 📊 Repository Activity & Stats
+## 📊 GitHub Stats & Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imron-Code17&show_icons=true&theme=radical)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imron-Code17&show_icons=true&theme=radical&include_all_commits=true&line_height=25)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical)
 
-<!-- Placeholder: Add GitHub activity graph or more specific stats -->
+### GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imron-Code17&theme=radical)
+
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imron-Code17&theme=radical)
 
 ---
 
