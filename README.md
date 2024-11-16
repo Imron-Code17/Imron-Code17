@@ -8,7 +8,6 @@ I'm a **Mobile App Developer** specializing in **Flutter** and **Dart**, passion
 
 - 📱 **Flutter/Dart Development**
 - 💻 **State Management** (BLoC, Cubit, GetX)
-- 🎨 **UI/UX Design** 
 - 🤖 **Machine Learning Integration** for mobile apps
 - 🛠️ **Back-end Integration** 
 ---
