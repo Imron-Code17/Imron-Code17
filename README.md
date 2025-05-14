@@ -1,28 +1,43 @@
-# Hello, My Name is Moch Ali Imron 👋
+# 👋 Hi, I'm Moch Ali Imron
 
-I'm a **Mobile App Developer** specializing in **Flutter** and **Dart**, passionate about crafting engaging and efficient mobile solutions. My journey focuses on continuous improvement, mastering new technologies, and delivering intuitive and high-performing apps.
-
----
-
-## 🚀 Skills & Expertise
-
-- 📱 **Flutter/Dart Development**
-- 💻 **State Management** (BLoC, Cubit, GetX)
-- 🤖 **Machine Learning Integration** for mobile apps
-- 🛠️ **Back-end Integration** 
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to collaborating on interesting and impactful **mobile app projects** or contributing to **open-source libraries** in the Flutter ecosystem. Let’s innovate and create meaningful solutions together.
+I’m a passionate **Mobile App Developer** specializing in **Flutter** and **Dart**, dedicated to building smooth, scalable, and impactful mobile experiences. I believe in writing clean code, learning continuously, and solving real-world problems through intuitive and high-performance applications.
 
 ---
 
-## 📫 Contact Me
+## 🚀 Tech Stack & Expertise
 
-- **Email:** [ali.imronashter@gmail.com](mailto:ali.imronashter@gmail.com)
-- **LinkedIn:** [linkedin.com/in/imr17](https://www.linkedin.com/in/imr17)
+- 📱 **Flutter & Dart** – Building cross-platform mobile apps with elegant UI and solid performance  
+- 🎯 **State Management** – GetX, BLoC, Cubit for predictable and scalable architecture  
+- 🤖 **Machine Learning Integration** – Embedding ML features in mobile environments (e.g., face recognition)  
+- 🔗 **Backend Integration** – RESTful APIs, Firebase, PostgreSQL  
+- 🧪 **Testing & Optimization** – Focus on app reliability, performance, and maintainability  
 
 ---
 
-**Thank you for visiting my profile!** Let's build something amazing together. 😊
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical)
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m always excited to collaborate on:
+
+- 📲 Innovative mobile app projects  
+- 🧩 Open-source contributions in the Flutter ecosystem  
+- 🧠 Research & development in ML-powered mobile features  
+
+If you have an idea or project you'd like to discuss, let’s connect!
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [ali.imronashter@gmail.com](mailto:ali.imronashter@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/imr17](https://www.linkedin.com/in/imr17)
+
+---
+
+Thanks for stopping by!  
+**Let’s build something amazing together. 🚀**
