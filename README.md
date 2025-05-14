@@ -1,43 +1,56 @@
-# 👋 Hi, I'm Moch Ali Imron
+<h1 align="center">👋 Hi, I'm Moch Ali Imron</h1>
 
-I’m a passionate **Mobile App Developer** specializing in **Flutter** and **Dart**, dedicated to building smooth, scalable, and impactful mobile experiences. I believe in writing clean code, learning continuously, and solving real-world problems through intuitive and high-performance applications.
-
----
-
-## 🚀 Tech Stack & Expertise
-
-- 📱 **Flutter & Dart** – Building cross-platform mobile apps with elegant UI and solid performance  
-- 🎯 **State Management** – GetX, BLoC, Cubit for predictable and scalable architecture  
-- 🤖 **Machine Learning Integration** – Embedding ML features in mobile environments (e.g., face recognition)  
-- 🔗 **Backend Integration** – RESTful APIs, Firebase, PostgreSQL  
-- 🧪 **Testing & Optimization** – Focus on app reliability, performance, and maintainability  
+<p align="center">
+  A passionate <strong>Mobile Engineer</strong> who builds cross-platform apps using <strong>Flutter</strong> & <strong>Dart</strong> 🚀<br>
+  Crafting clean, scalable, and impactful mobile experiences with a user-first mindset.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack & Expertise
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical)
-
----
-
-## 🤝 Open to Collaboration
-
-I’m always excited to collaborate on:
-
-- 📲 Innovative mobile app projects  
-- 🧩 Open-source contributions in the Flutter ecosystem  
-- 🧠 Research & development in ML-powered mobile features  
-
-If you have an idea or project you'd like to discuss, let’s connect!
+- 📱 **Flutter & Dart** – Cross-platform mobile development with modern UI and performance  
+- 🎯 **State Management** – BLoC, GetX, Cubit for scalable and maintainable code  
+- 🤖 **Machine Learning Integration** – On-device ML for real-time face recognition, etc.  
+- 🔗 **Backend Integration** – Firebase, RESTful APIs, PostgreSQL  
+- 🧪 **Testing & Optimization** – Emphasis on reliability, performance, and maintainability  
 
 ---
 
-## 📫 Let's Connect
+## 🌟 Featured GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imron-Code17&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imron-Code17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imron-Code17&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+🚀 I'm open to:
+
+- 📲 Building innovative mobile apps  
+- 🧩 Contributing to open-source Flutter libraries  
+- 🧠 Research and ML-powered mobile solutions  
+- 🎓 Mentorship and collaboration in the dev community  
+
+Got a project or an idea? Let's make it real!
+
+---
+
+## 📫 Reach Me Here
 
 - 📧 **Email:** [ali.imronashter@gmail.com](mailto:ali.imronashter@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/imr17](https://www.linkedin.com/in/imr17)
+- 💼 **LinkedIn:** [linkedin.com/in/imr17](https://www.linkedin.com/in/imr17)  
+- 🧑‍💻 **GitHub:** [github.com/Imron-Code17](https://github.com/Imron-Code17)
 
 ---
 
-Thanks for stopping by!  
-**Let’s build something amazing together. 🚀**
+<p align="center">
+  <strong>Thank you for visiting!</strong><br>
+  Let's build something amazing together. 🌍✨
+</p>
